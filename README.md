@@ -7,18 +7,11 @@ Software Engineer Student at 1337 MED
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [kchaouki.dev@gmail.com](mailto:kchaouki.dev@gmail.com)
 * 🧠  I'm learning Advanced C Programming
-
-
-<div class="l-container l-container--full-bleed">
-  <div class="l-container">
     
     <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9b0gxgp00160hmku056ziq8/stats?cursusId=21&coalitionId=279" alt="kchaouki's 42 stats" /></a>
     
     <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9b0gxgp00160hmku056ziq8/stats?cursusId=9&coalitionId=piscine" alt="kchaouki's 42 stats" /></a>
     
-  </div>
-</div>
-
 
   
 <a href="https://www.github.com/karimch-50" target="_blank" rel="noreferrer"><img
