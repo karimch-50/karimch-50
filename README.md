@@ -8,6 +8,18 @@ Software Engineer Student at 1337 MED
 * ✉️  You can contact me at [kchaouki.dev@gmail.com](mailto:kchaouki.dev@gmail.com)
 * 🧠  I'm learning Advanced C Programming
 
+
+<div class="w3-container  w3-cell">
+  <p>.CSS Layout.</p>
+</div>
+
+<div class="w3-container w3-cell">
+  <p>Hello W3.CSS Layout.</p>
+</div>
+
+
+
+
 <div class="grid-container">
 
 <div class="grid-item">
