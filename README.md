@@ -11,6 +11,8 @@ Software Engineer Student at 1337 MED
 <a href="https://www.github.com/karimch-50" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/karimch-50?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/kchaouki" alt="kchaouki's 42 stats" /></a>
+
 ### Skills
 
 <p align="left">
@@ -43,8 +45,6 @@ src="https://img.shields.io/github/followers/karimch-50?logo=github&style=for-th
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/kchaouki" alt="kchaouki's 42 stats" /></a>
 
 <a href="http://www.github.com/karimch-50"><img src="https://github-readme-stats.vercel.app/api?username=karimch-50&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="karimch-50's GitHub stats" /></a>
 
