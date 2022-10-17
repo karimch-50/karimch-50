@@ -11,7 +11,7 @@ Software Engineer Student at 1337 MED
 <div style="display:flex">
   <img src="https://badge42.vercel.app/api/v2/cl9b0gxgp00160hmku056ziq8/stats?cursusId=21&coalitionId=279" alt="kchaouki's 42 stats" />
     
- <img src="https://badge42.vercel.app/api/v2/cl9b0gxgp00160hmku056ziq8/stats?cursusId=9&coalitionId=piscine" alt="kchaouki's 42 stats" />
+  <img src="https://badge42.vercel.app/api/v2/cl9b0gxgp00160hmku056ziq8/stats?cursusId=9&coalitionId=piscine" alt="kchaouki's 42 stats" />
 </div>
 
   
