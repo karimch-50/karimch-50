@@ -8,7 +8,7 @@ Software Engineer Student at 1337 MED
 * ✉️  You can contact me at [kchaouki.dev@gmail.com](mailto:kchaouki.dev@gmail.com)
 * 🧠  I'm learning Advanced C Programming
     
-<div style="display:flex">
+<div style="display:grid;grid-template-columns:repeat(2, 1fr)">
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9b0gxgp00160hmku056ziq8/stats?cursusId=21&coalitionId=279" alt="kchaouki's 42 stats" /></a>
     
     <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9b0gxgp00160hmku056ziq8/stats?cursusId=9&coalitionId=piscine" alt="kchaouki's 42 stats" /></a>
