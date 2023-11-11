@@ -6,7 +6,7 @@ Software Engineer Student at 1337 MED
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [kchaouki.dev@gmail.com](mailto:kchaouki.dev@gmail.com)
-* 🧠  I'm learning Advanced C Programming
+* 🧠  I'm learning Advanced C++ Programming
 
 <div style="display:flex">
 
