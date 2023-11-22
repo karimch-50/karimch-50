@@ -8,13 +8,6 @@ Software Engineer Student at 1337 MED
 * ✉️  You can contact me at [kchaouki.dev@gmail.com](mailto:kchaouki.dev@gmail.com)
 * 🧠  I'm learning Advanced C++ Programming
 
-<div style="display:flex">
-
-  <img src="https://badge42.vercel.app/api/v2/cl9b0gxgp00160hmku056ziq8/stats?cursusId=21&coalitionId=279" alt="kchaouki's 42 stats" width="350px" />
-    
-  <img src="https://badge42.vercel.app/api/v2/cl9b0gxgp00160hmku056ziq8/stats?cursusId=9&coalitionId=piscine" alt="kchaouki's 42 stats" width="350px"/>
-</div>
-
   
 <a href="https://www.github.com/karimch-50" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/karimch-50?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
