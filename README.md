@@ -1,7 +1,7 @@
 Hi 👋 My name is karim chaouki
 ==============================
 
-Software Engineer Student at 1337 MED
+Technology Enthusiast, interested in Full stack web
 -------------------------------------
 
 * 🌍  I'm based in Morocco
