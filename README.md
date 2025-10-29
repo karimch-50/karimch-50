@@ -1,7 +1,7 @@
 Hi 👋 My name is karim chaouki
 ==============================
 
-Technology Enthusiast, interested in Full stack web
+Technology Enthusiast, full-stack developer
 -------------------------------------
 
 * 🌍  I'm based in Morocco
